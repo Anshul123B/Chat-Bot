@@ -30,5 +30,5 @@ To run this application locally, follow these steps:
 
 ## OpenAI API Setup
 
-To use OpenAI's API in this application, you need to sign up for an account on the OpenAI platform and obtain an API key. Once you have the API key, replace `YOUR_API_KEY_HERE` in the `script.js` file with your actual API key.
+To use OpenAI's API in this application, you need to sign up for an account on the OpenAI platform and obtain an API key. Once you have the API key, replace `YOUR_API_KEY` in the `Script.js` file with your actual API key.
 
